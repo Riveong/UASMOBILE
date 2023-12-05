@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contactApp</string>
+    <string name="buku_telpon">Buku telpon</string>
+    <string name="add">tambah</string>
+</resources>
